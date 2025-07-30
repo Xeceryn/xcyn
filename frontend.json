@@ -1,0 +1,88 @@
+{
+  "developers": [
+    {
+      "name": "Adhitya Musthofa",
+      "title": "Frontend Developer",
+      "location": "Jakarta, Indonesia",
+      "contact": {
+        "email": "adhitya@example.com",
+        "website": "https://adhityadev.com",
+        "github": "https://github.com/adhityadev",
+        "linkedin": "https://linkedin.com/in/adhityadev"
+      },
+      "skills": [
+        "HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"
+      ],
+      "experience": [
+        {
+          "company": "TechNova",
+          "role": "Frontend Developer",
+          "duration": "Jan 2022 - Present"
+        }
+      ],
+      "projects": [
+        {
+          "name": "Portfolio Website",
+          "url": "https://adhityadev.com"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Anggraini",
+      "title": "UI Engineer",
+      "location": "Bandung, Indonesia",
+      "contact": {
+        "email": "sarah.anggraini@example.com",
+        "github": "https://github.com/sarah-ui",
+        "linkedin": "https://linkedin.com/in/sarahanggraini"
+      },
+      "skills": [
+        "Vue.js", "JavaScript", "SCSS", "Nuxt.js", "Figma"
+      ],
+      "experience": [
+        {
+          "company": "Creatix Studio",
+          "role": "UI Engineer",
+          "duration": "Feb 2021 - Present"
+        },
+        {
+          "company": "DigitalHive",
+          "role": "Frontend Intern",
+          "duration": "Jan 2020 - Jan 2021"
+        }
+      ],
+      "projects": [
+        {
+          "name": "UI Component Library",
+          "url": "https://github.com/sarah-ui/components"
+        }
+      ]
+    },
+    {
+      "name": "Rizky Pratama",
+      "title": "Frontend Web Developer",
+      "location": "Surabaya, Indonesia",
+      "contact": {
+        "email": "rizky.pratama@example.com",
+        "website": "https://rizkydev.net",
+        "linkedin": "https://linkedin.com/in/rizkypratama"
+      },
+      "skills": [
+        "Angular", "TypeScript", "Bootstrap", "RxJS", "GraphQL"
+      ],
+      "experience": [
+        {
+          "company": "InovaTech",
+          "role": "Frontend Web Developer",
+          "duration": "May 2020 - Present"
+        }
+      ],
+      "projects": [
+        {
+          "name": "E-commerce Dashboard",
+          "url": "https://github.com/rizkypratama/ecom-dashboard"
+        }
+      ]
+    }
+  ]
+}
