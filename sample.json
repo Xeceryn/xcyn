@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "code": 200,
+  "message": "Data retrieved successfully.",
+  "timestamp": "2025-07-31T10:00:00Z",
+  "data": {
+    "id": "a8f93d10-bb3f-4e1a-a75f-9f31e998c4da",
+    "user": {
+      "name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "metrics": {
+      "score": 87,
+      "rank": "B+",
+      "lastUpdated": "2025-07-31T09:58:21Z"
+    },
+    "flags": {
+      "verified": true,
+      "active": false
+    }
+  }
+}
