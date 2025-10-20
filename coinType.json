@@ -35,6 +35,16 @@
     "coinShortName": "AE"
   },
   {
+    "coinType": 8254,
+    "coinName": "aiPump",
+    "coinShortName": "AIPUMP"
+  },
+  {
+    "coinType": 8261,
+    "coinName": "ARES",
+    "coinShortName": "ARES"
+  },
+  {
     "coinType": 125,
     "coinName": "Animation Vision Cash",
     "coinShortName": "AVH"
@@ -112,7 +122,7 @@
   {
     "coinType": 2268,
     "coinName": "Ares Protocol",
-    "coinShortName": "ARES"
+    "coinShortName": "ARES_DELISTED"
   },
   {
     "coinType": 2273,
@@ -457,7 +467,7 @@
   {
     "coinType": 3418,
     "coinName": "Legends of Aria",
-    "coinShortName": "ARIA"
+    "coinShortName": "ARIA_DELIST"
   },
   {
     "coinType": 3481,
@@ -737,7 +747,7 @@
   {
     "coinType": 4544,
     "coinName": "Autonomi",
-    "coinShortName": "ANT"
+    "coinShortName": "AUTONOMI"
   },
   {
     "coinType": 4546,
@@ -1055,11 +1065,6 @@
     "coinShortName": "ALCH"
   },
   {
-    "coinType": 6300,
-    "coinName": "aiPump",
-    "coinShortName": "AIPUMP"
-  },
-  {
     "coinType": 6322,
     "coinName": "AstroNexus",
     "coinShortName": "ANEX"
@@ -1283,6 +1288,76 @@
     "coinType": 7750,
     "coinName": "AOL",
     "coinShortName": "AOL"
+  },
+  {
+    "coinType": 7774,
+    "coinName": "Arena-Z",
+    "coinShortName": "A2Z"
+  },
+  {
+    "coinType": 7862,
+    "coinName": "Cherry AI",
+    "coinShortName": "AIBOT"
+  },
+  {
+    "coinType": 7880,
+    "coinName": "Autonomys",
+    "coinShortName": "AI3"
+  },
+  {
+    "coinType": 7903,
+    "coinName": "AKEDO",
+    "coinShortName": "AKE"
+  },
+  {
+    "coinType": 7909,
+    "coinName": "AriaAI",
+    "coinShortName": "ARIA"
+  },
+  {
+    "coinType": 8017,
+    "coinName": "Avantis",
+    "coinShortName": "AVNT"
+  },
+  {
+    "coinType": 8046,
+    "coinName": "ARAI",
+    "coinShortName": "AA"
+  },
+  {
+    "coinType": 8050,
+    "coinName": "Angola",
+    "coinShortName": "AGLA"
+  },
+  {
+    "coinType": 8082,
+    "coinName": "AI⁴ | Recursive Superintelligence ",
+    "coinShortName": "AI4"
+  },
+  {
+    "coinType": 8084,
+    "coinName": "DeAgentAI",
+    "coinShortName": "AIA"
+  },
+  {
+    "coinType": 8100,
+    "coinName": "Aster",
+    "coinShortName": "ASTER"
+  },
+  {
+    "coinType": 8127,
+    "coinName": "AsterINU ",
+    "coinShortName": "ASTERINU"
+  },
+  {
+    "coinType": 8178,
+    "coinName": "AlphaExchange AI",
+    "coinShortName": "AEA"
+  },
+  {
+    "coinType": 8195,
+    "coinName": "币安人生",
+    "coinShortName": "BIANRENSHENG"
   },
   {
     "coinType": 42,
@@ -1657,7 +1732,7 @@
   {
     "coinType": 3171,
     "coinName": "Bit Hotel Token",
-    "coinShortName": "BTH"
+    "coinShortName": "BTH_DELIST"
   },
   {
     "coinType": 3199,
@@ -1672,7 +1747,7 @@
   {
     "coinType": 3231,
     "coinName": "Big Amber Stone",
-    "coinShortName": "BAS"
+    "coinShortName": "BAS_DELIST"
   },
   {
     "coinType": 3284,
@@ -1818,11 +1893,6 @@
     "coinType": 3720,
     "coinName": "Blur",
     "coinShortName": "BLUR"
-  },
-  {
-    "coinType": 3797,
-    "coinName": "Bnb Tiger Inu",
-    "coinShortName": "BNBTIGER(1M)"
   },
   {
     "coinType": 3810,
@@ -2765,6 +2835,11 @@
     "coinShortName": "BOOPE"
   },
   {
+    "coinType": 7125,
+    "coinName": "BlockDAG",
+    "coinShortName": "BDAG"
+  },
+  {
     "coinType": 7130,
     "coinName": "CreatorBuddy",
     "coinShortName": "BUDDY"
@@ -2885,9 +2960,99 @@
     "coinShortName": "BONKYO"
   },
   {
+    "coinType": 7820,
+    "coinName": "Ibiza Final Boss",
+    "coinShortName": "BOSS"
+  },
+  {
+    "coinType": 7823,
+    "coinName": "BUY THE HAT",
+    "coinShortName": "BTH"
+  },
+  {
+    "coinType": 7852,
+    "coinName": "BNPL Pay",
+    "coinShortName": "BNPL"
+  },
+  {
+    "coinType": 7882,
+    "coinName": "BAS",
+    "coinShortName": "BAS"
+  },
+  {
+    "coinType": 7907,
+    "coinName": "BoatKid",
+    "coinShortName": "BOATKID"
+  },
+  {
+    "coinType": 7915,
+    "coinName": "Baby World Liberty Financial",
+    "coinShortName": "BABYWLFI"
+  },
+  {
+    "coinType": 7929,
+    "coinName": "Young Defender of Liberty",
+    "coinShortName": "BRAVEHEART"
+  },
+  {
+    "coinType": 7980,
+    "coinName": "Bitlayer",
+    "coinShortName": "BTR"
+  },
+  {
+    "coinType": 7998,
+    "coinName": "Boost",
+    "coinShortName": "BOOST"
+  },
+  {
+    "coinType": 8023,
+    "coinName": "Bnb Tiger Inu",
+    "coinShortName": "BNBTIGER"
+  },
+  {
+    "coinType": 8048,
+    "coinName": "Bagwork",
+    "coinShortName": "BAGWORK"
+  },
+  {
+    "coinType": 8086,
+    "coinName": "Lombard",
+    "coinShortName": "BARD"
+  },
+  {
+    "coinType": 8111,
+    "coinName": "Bless",
+    "coinShortName": "BLESS"
+  },
+  {
+    "coinType": 8149,
+    "coinName": "BSX",
+    "coinShortName": "BSX"
+  },
+  {
+    "coinType": 8205,
+    "coinName": "財務自由",
+    "coinShortName": "CAIWUZIYOU"
+  },
+  {
+    "coinType": 8207,
+    "coinName": "ChainOpera AI",
+    "coinShortName": "COAI"
+  },
+  {
+    "coinType": 8237,
+    "coinName": "Yei Finance",
+    "coinShortName": "CLO"
+  },
+  {
     "coinType": 60,
     "coinName": "CryptoHarborExchange",
     "coinShortName": "CHE"
+  },
+  {
+    "coinType": 8252,
+    "coinName": "重生",
+    "coinShortName": "CHONGSHENG"
   },
   {
     "coinType": 122,
@@ -4090,6 +4255,86 @@
     "coinShortName": "CHAR"
   },
   {
+    "coinType": 7791,
+    "coinName": "Cycle Network",
+    "coinShortName": "CYC"
+  },
+  {
+    "coinType": 7803,
+    "coinName": "Creata Chain",
+    "coinShortName": "CTA"
+  },
+  {
+    "coinType": 7836,
+    "coinName": "Clippy PFP Cult",
+    "coinShortName": "CLIPPY"
+  },
+  {
+    "coinType": 7890,
+    "coinName": "CREPE",
+    "coinShortName": "CREPE"
+  },
+  {
+    "coinType": 7893,
+    "coinName": "CLIPPY",
+    "coinShortName": "CLIPPYETH"
+  },
+  {
+    "coinType": 7895,
+    "coinName": "Courage The Dog",
+    "coinShortName": "CCDOG"
+  },
+  {
+    "coinType": 7911,
+    "coinName": "Chainova",
+    "coinShortName": "CNV"
+  },
+  {
+    "coinType": 7935,
+    "coinName": "Camp Network",
+    "coinShortName": "CAMP"
+  },
+  {
+    "coinType": 7940,
+    "coinName": "Cope",
+    "coinShortName": "COPE"
+  },
+  {
+    "coinType": 7976,
+    "coinName": "Collector Crypt",
+    "coinShortName": "CARDS"
+  },
+  {
+    "coinType": 8033,
+    "coinName": "Justice For Charlie",
+    "coinShortName": "CHARLIE"
+  },
+  {
+    "coinType": 8076,
+    "coinName": "CARTIUM",
+    "coinShortName": "CRM"
+  },
+  {
+    "coinType": 8088,
+    "coinName": "CopXToken",
+    "coinShortName": "COPX"
+  },
+  {
+    "coinType": 8104,
+    "coinName": "CarFi",
+    "coinShortName": "CARFI"
+  },
+  {
+    "coinType": 8152,
+    "coinName": "CogniToken",
+    "coinShortName": "COG"
+  },
+  {
+    "coinType": 8215,
+    "coinName": "DEW",
+    "coinShortName": "DEW"
+  },
+  {
     "coinType": 44,
     "coinName": "DPSChain",
     "coinShortName": "DPST"
@@ -4785,11 +5030,6 @@
     "coinShortName": "DOGGO"
   },
   {
-    "coinType": 5487,
-    "coinName": "Dora Factory",
-    "coinShortName": "DORA"
-  },
-  {
     "coinType": 5550,
     "coinName": "DeepBook",
     "coinShortName": "DEEP"
@@ -4940,11 +5180,6 @@
     "coinShortName": "DISTRIBUTE"
   },
   {
-    "coinType": 6825,
-    "coinName": "DexChart",
-    "coinShortName": "DCT_V1"
-  },
-  {
     "coinType": 6910,
     "coinName": "Dark Eclipse",
     "coinShortName": "DARK"
@@ -5035,14 +5270,64 @@
     "coinShortName": "DCT"
   },
   {
+    "coinType": 7854,
+    "coinName": "DORA",
+    "coinShortName": "DORA"
+  },
+  {
+    "coinType": 7875,
+    "coinName": "Reservoir",
+    "coinShortName": "DAM"
+  },
+  {
+    "coinType": 7888,
+    "coinName": "DecentralGPT",
+    "coinShortName": "DGC"
+  },
+  {
+    "coinType": 8019,
+    "coinName": "DNA",
+    "coinShortName": "DNA"
+  },
+  {
+    "coinType": 8064,
+    "coinName": "DRDR",
+    "coinShortName": "DRDR"
+  },
+  {
+    "coinType": 8098,
+    "coinName": "Dill",
+    "coinShortName": "DL"
+  },
+  {
+    "coinType": 8175,
+    "coinName": "Degenfi",
+    "coinShortName": "DEGENFI_V1"
+  },
+  {
+    "coinType": 8188,
+    "coinName": "Degenfi",
+    "coinShortName": "DEGENFI"
+  },
+  {
     "coinType": 30,
     "coinName": "Effect.AI",
     "coinShortName": "EFX"
   },
   {
+    "coinType": 8238,
+    "coinName": "Enso",
+    "coinShortName": "ENSO"
+  },
+  {
     "coinType": 50,
     "coinName": "EBCoin",
     "coinShortName": "EBC"
+  },
+  {
+    "coinType": 8256,
+    "coinName": "Eco trade",
+    "coinShortName": "ECT"
   },
   {
     "coinType": 1943,
@@ -5565,11 +5850,6 @@
     "coinShortName": "EURQ"
   },
   {
-    "coinType": 6807,
-    "coinName": "Elipe Token",
-    "coinShortName": "ET_V1"
-  },
-  {
     "coinType": 6832,
     "coinName": "Definitive",
     "coinShortName": "EDGE"
@@ -5577,7 +5857,7 @@
   {
     "coinType": 6930,
     "coinName": "Eco trade",
-    "coinShortName": "ECT"
+    "coinShortName": "ECT_V1"
   },
   {
     "coinType": 6965,
@@ -5633,6 +5913,36 @@
     "coinType": 7763,
     "coinName": "Elipe Token",
     "coinShortName": "ET"
+  },
+  {
+    "coinType": 7958,
+    "coinName": "Etarn ",
+    "coinShortName": "ETAN"
+  },
+  {
+    "coinType": 7962,
+    "coinName": "Emulites",
+    "coinShortName": "EMULITES"
+  },
+  {
+    "coinType": 7972,
+    "coinName": "Electroneum",
+    "coinShortName": "ETN"
+  },
+  {
+    "coinType": 8164,
+    "coinName": "OpenEden",
+    "coinShortName": "EDEN"
+  },
+  {
+    "coinType": 8180,
+    "coinName": "EVAA Protocol",
+    "coinShortName": "EVAA"
+  },
+  {
+    "coinType": 8269,
+    "coinName": "FurGpt",
+    "coinShortName": "FGPT"
   },
   {
     "coinType": 124,
@@ -5707,7 +6017,7 @@
   {
     "coinType": 2455,
     "coinName": "Formation.Fi",
-    "coinShortName": "FORM"
+    "coinShortName": "FORM_DELIST"
   },
   {
     "coinType": 2469,
@@ -5905,6 +6215,11 @@
     "coinShortName": "FTN"
   },
   {
+    "coinType": 3753,
+    "coinName": "Four",
+    "coinShortName": "FORM"
+  },
+  {
     "coinType": 3769,
     "coinName": "FLOKI CEO",
     "coinShortName": "FLOKICEO"
@@ -5938,11 +6253,6 @@
     "coinType": 4061,
     "coinName": "FairERC20",
     "coinShortName": "FERC"
-  },
-  {
-    "coinType": 4076,
-    "coinName": "FoxGPT",
-    "coinShortName": "FGPT"
   },
   {
     "coinType": 4165,
@@ -6300,11 +6610,6 @@
     "coinShortName": "FUR"
   },
   {
-    "coinType": 6959,
-    "coinName": "Future Payment",
-    "coinShortName": "FPT_V1"
-  },
-  {
     "coinType": 6979,
     "coinName": "StaFi",
     "coinShortName": "FIS"
@@ -6345,9 +6650,49 @@
     "coinShortName": "FPT"
   },
   {
+    "coinType": 7788,
+    "coinName": "FARTLESS COIN",
+    "coinShortName": "FARTLESS"
+  },
+  {
+    "coinType": 7799,
+    "coinName": "fapcoin",
+    "coinShortName": "FAPCOIN"
+  },
+  {
+    "coinType": 7873,
+    "coinName": "Fork Chain",
+    "coinShortName": "FORK"
+  },
+  {
+    "coinType": 8060,
+    "coinName": "Feed The People",
+    "coinShortName": "FTP"
+  },
+  {
+    "coinType": 8094,
+    "coinName": "Freedom Dollar",
+    "coinShortName": "FUSD"
+  },
+  {
+    "coinType": 8159,
+    "coinName": "Falcon Finance",
+    "coinShortName": "FF"
+  },
+  {
+    "coinType": 8225,
+    "coinName": "GOLD BNB",
+    "coinShortName": "GBNB_V1"
+  },
+  {
     "coinType": 38,
     "coinName": "Golem",
     "coinShortName": "GNT"
+  },
+  {
+    "coinType": 8275,
+    "coinName": "GOLD BNB",
+    "coinShortName": "GBNB"
   },
   {
     "coinType": 1984,
@@ -7106,8 +7451,8 @@
   },
   {
     "coinType": 7701,
-    "coinName": "Ubuntu Tribe",
-    "coinShortName": "GIFTGOLD"
+    "coinName": "GIFT",
+    "coinShortName": "GIFT"
   },
   {
     "coinType": 7728,
@@ -7120,9 +7465,44 @@
     "coinShortName": "GAIA"
   },
   {
+    "coinType": 7933,
+    "coinName": "Goatcoin",
+    "coinShortName": "GOATCOIN"
+  },
+  {
+    "coinType": 8080,
+    "coinName": "Mythical Gem",
+    "coinShortName": "GEM"
+  },
+  {
+    "coinType": 8107,
+    "coinName": "Giggle Fund",
+    "coinShortName": "GIGGLE"
+  },
+  {
+    "coinType": 8120,
+    "coinName": "Griffin AI",
+    "coinShortName": "GAIN"
+  },
+  {
+    "coinType": 8143,
+    "coinName": "GOAT Network",
+    "coinShortName": "GOATED"
+  },
+  {
+    "coinType": 8223,
+    "coinName": "哈基米",
+    "coinShortName": "HAJIMI"
+  },
+  {
     "coinType": 45,
     "coinName": "Hydro",
     "coinShortName": "HYDRO"
+  },
+  {
+    "coinType": 8245,
+    "coinName": "HTX DAO",
+    "coinShortName": "HTX"
   },
   {
     "coinType": 2060,
@@ -7572,7 +7952,7 @@
   {
     "coinType": 6351,
     "coinName": "Holozone",
-    "coinShortName": "HOLO"
+    "coinShortName": "HOLO_DELIST"
   },
   {
     "coinType": 6447,
@@ -7638,6 +8018,26 @@
     "coinType": 7549,
     "coinName": "Robinhood xStock",
     "coinShortName": "HOODX"
+  },
+  {
+    "coinType": 7942,
+    "coinName": "Hemi",
+    "coinShortName": "HEMI"
+  },
+  {
+    "coinType": 7964,
+    "coinName": "holo",
+    "coinShortName": "HOLO"
+  },
+  {
+    "coinType": 7984,
+    "coinName": "Huch",
+    "coinShortName": "HUCH"
+  },
+  {
+    "coinType": 8137,
+    "coinName": "Hana Network",
+    "coinShortName": "HANA"
   },
   {
     "coinType": 35,
@@ -7975,6 +8375,26 @@
     "coinShortName": "IKA"
   },
   {
+    "coinType": 7794,
+    "coinName": "Grok Imagine",
+    "coinShortName": "IMAGINE"
+  },
+  {
+    "coinType": 7797,
+    "coinName": "Invincible Game Token",
+    "coinShortName": "IGGT"
+  },
+  {
+    "coinType": 7899,
+    "coinName": "the imperfect coin",
+    "coinShortName": "IMPERFECT"
+  },
+  {
+    "coinType": 8015,
+    "coinName": "Justice for Iryna",
+    "coinShortName": "IRYNA"
+  },
+  {
     "coinType": 2047,
     "coinName": "Japan Content Token",
     "coinShortName": "JCT"
@@ -8130,6 +8550,21 @@
     "coinShortName": "JYAI"
   },
   {
+    "coinType": 7781,
+    "coinName": "Unleash Jugs",
+    "coinShortName": "JUGS"
+  },
+  {
+    "coinType": 8011,
+    "coinName": "Jobless",
+    "coinShortName": "JOBLESS"
+  },
+  {
+    "coinType": 8201,
+    "coinName": "客服小何",
+    "coinShortName": "KEFUXIAOHE"
+  },
+  {
     "coinType": 27,
     "coinName": "BitKan",
     "coinShortName": "KAN"
@@ -8282,7 +8717,7 @@
   {
     "coinType": 3458,
     "coinName": "Kindly Coin",
-    "coinShortName": "KIND"
+    "coinShortName": "KIND_DELIST"
   },
   {
     "coinType": 3464,
@@ -8625,6 +9060,36 @@
     "coinShortName": "KIPPAH"
   },
   {
+    "coinType": 7829,
+    "coinName": "Sidekick",
+    "coinShortName": "K"
+  },
+  {
+    "coinType": 7838,
+    "coinName": "Karrat",
+    "coinShortName": "KARRAT"
+  },
+  {
+    "coinType": 8054,
+    "coinName": "KindnessCoin",
+    "coinShortName": "KIND"
+  },
+  {
+    "coinType": 8193,
+    "coinName": "Everlyn AI",
+    "coinShortName": "LYN"
+  },
+  {
+    "coinType": 8231,
+    "coinName": "龙Long",
+    "coinShortName": "LONG"
+  },
+  {
+    "coinType": 8235,
+    "coinName": "LAB",
+    "coinShortName": "LAB"
+  },
+  {
     "coinType": 128,
     "coinName": "KRIPTON",
     "coinShortName": "LPK"
@@ -8777,12 +9242,12 @@
   {
     "coinType": 2803,
     "coinName": "lumenswap.io",
-    "coinShortName": "LSP"
+    "coinShortName": "LSP delisted"
   },
   {
     "coinType": 2817,
     "coinName": "Liquidus",
-    "coinShortName": "LIQ"
+    "coinShortName": "LIQ_Delist"
   },
   {
     "coinType": 2840,
@@ -8818,11 +9283,6 @@
     "coinType": 3030,
     "coinName": "Libcoin",
     "coinShortName": "LIB"
-  },
-  {
-    "coinType": 3057,
-    "coinName": "League of Kingdoms Arena",
-    "coinShortName": "LOKA"
   },
   {
     "coinType": 3113,
@@ -9112,7 +9572,7 @@
   {
     "coinType": 4841,
     "coinName": "LINEA",
-    "coinShortName": "LINEA-ETH"
+    "coinShortName": "LINEAETH"
   },
   {
     "coinType": 4842,
@@ -9241,8 +9701,8 @@
   },
   {
     "coinType": 5433,
-    "coinName": "LIQUIDIUM•TOKEN",
-    "coinShortName": "LIQUIDIUMTOKEN"
+    "coinName": "LIQUIDIUM• TOKEN",
+    "coinShortName": "LIQ"
   },
   {
     "coinType": 5446,
@@ -9332,7 +9792,7 @@
   {
     "coinType": 6328,
     "coinName": "Large Language Model",
-    "coinShortName": "LLM"
+    "coinShortName": "LLM_DELIST"
   },
   {
     "coinType": 6358,
@@ -9437,7 +9897,7 @@
   {
     "coinType": 7557,
     "coinName": "Liquidpump",
-    "coinShortName": "LP"
+    "coinShortName": "LP_V1"
   },
   {
     "coinType": 7559,
@@ -9465,9 +9925,54 @@
     "coinShortName": "LN"
   },
   {
-    "coinType": 41,
-    "coinName": "Maker",
-    "coinShortName": "MKR"
+    "coinType": 7801,
+    "coinName": "LIZARD",
+    "coinShortName": "LIZARD"
+  },
+  {
+    "coinType": 7831,
+    "coinName": "Lunarbits",
+    "coinShortName": "LUNARBITS"
+  },
+  {
+    "coinType": 7886,
+    "coinName": "Lemmy The Bat",
+    "coinShortName": "LBAI"
+  },
+  {
+    "coinType": 7919,
+    "coinName": "Latina Language Model",
+    "coinShortName": "LLM"
+  },
+  {
+    "coinType": 7921,
+    "coinName": "Light",
+    "coinShortName": "LIGHT_DELIST"
+  },
+  {
+    "coinType": 7952,
+    "coinName": "Loaded Lions",
+    "coinShortName": "LION"
+  },
+  {
+    "coinType": 7994,
+    "coinName": "Liqui Synth",
+    "coinShortName": "LSP"
+  },
+  {
+    "coinType": 8029,
+    "coinName": "Linea",
+    "coinShortName": "LINEA"
+  },
+  {
+    "coinType": 8146,
+    "coinName": "Bitlight Labs",
+    "coinShortName": "LIGHT"
+  },
+  {
+    "coinType": 8184,
+    "coinName": "Liquidpump",
+    "coinShortName": "LP"
   },
   {
     "coinType": 46,
@@ -9475,9 +9980,24 @@
     "coinShortName": "MMC"
   },
   {
+    "coinType": 8241,
+    "coinName": "Money Talks",
+    "coinShortName": "MTALK"
+  },
+  {
     "coinType": 53,
     "coinName": "MyToken",
     "coinShortName": "MT"
+  },
+  {
+    "coinType": 8259,
+    "coinName": "Masya",
+    "coinShortName": "MASYA"
+  },
+  {
+    "coinType": 8266,
+    "coinName": "Meteora",
+    "coinShortName": "MET"
   },
   {
     "coinType": 1938,
@@ -9522,7 +10042,7 @@
   {
     "coinType": 2088,
     "coinName": "MEETtoken",
-    "coinShortName": "MTT"
+    "coinShortName": "MTT_Delist"
   },
   {
     "coinType": 2089,
@@ -10392,7 +10912,7 @@
   {
     "coinType": 5498,
     "coinName": "Masya",
-    "coinShortName": "MASYA"
+    "coinShortName": "MASYA_DELIST"
   },
   {
     "coinType": 5510,
@@ -10585,11 +11105,6 @@
     "coinShortName": "MODALAI"
   },
   {
-    "coinType": 6920,
-    "coinName": "Masked",
-    "coinShortName": "MAK"
-  },
-  {
     "coinType": 7040,
     "coinName": "MilkyWay",
     "coinShortName": "MILK"
@@ -10671,7 +11186,7 @@
   },
   {
     "coinType": 7545,
-    "coinName": "METAX xStock",
+    "coinName": "META xStock",
     "coinShortName": "METAX"
   },
   {
@@ -10710,9 +11225,59 @@
     "coinShortName": "MEMECOIN"
   },
   {
+    "coinType": 7834,
+    "coinName": "METTI TOKEN",
+    "coinShortName": "MTT"
+  },
+  {
+    "coinType": 7901,
+    "coinName": "MINDFAK",
+    "coinShortName": "MINDFAK"
+  },
+  {
+    "coinType": 7931,
+    "coinName": "Masked",
+    "coinShortName": "MAK"
+  },
+  {
+    "coinType": 7938,
+    "coinName": "Mitosis",
+    "coinShortName": "MITO"
+  },
+  {
+    "coinType": 7974,
+    "coinName": "idrawline",
+    "coinShortName": "MITCH"
+  },
+  {
+    "coinType": 8013,
+    "coinName": "Medodo Coin",
+    "coinShortName": "MDDC"
+  },
+  {
+    "coinType": 8042,
+    "coinName": "Merlin Token",
+    "coinShortName": "MRLN"
+  },
+  {
+    "coinType": 8074,
+    "coinName": "Maiga.ai",
+    "coinShortName": "MAIGA"
+  },
+  {
+    "coinType": 8134,
+    "coinName": "Mira Network",
+    "coinShortName": "MIRA"
+  },
+  {
     "coinType": 28,
     "coinName": "NEO",
     "coinShortName": "NEO"
+  },
+  {
+    "coinType": 8229,
+    "coinName": "奶龙",
+    "coinShortName": "NAILONG"
   },
   {
     "coinType": 65,
@@ -10940,11 +11505,6 @@
     "coinShortName": "NTRN"
   },
   {
-    "coinType": 4326,
-    "coinName": "Niza Global",
-    "coinShortName": "NIZA"
-  },
-  {
     "coinType": 4367,
     "coinName": "Nemesis Downfall",
     "coinShortName": "ND"
@@ -11067,7 +11627,7 @@
   {
     "coinType": 5098,
     "coinName": "Nyan Heroes",
-    "coinShortName": "NYAN"
+    "coinShortName": "NYAN_DELIST"
   },
   {
     "coinType": 5141,
@@ -11250,9 +11810,44 @@
     "coinShortName": "NVDAX"
   },
   {
+    "coinType": 7825,
+    "coinName": "Nyan Cat",
+    "coinShortName": "NYAN"
+  },
+  {
+    "coinType": 7943,
+    "coinName": "NOBODYETH",
+    "coinShortName": "NOBODYETH_V1"
+  },
+  {
+    "coinType": 8027,
+    "coinName": "NOBODYETH",
+    "coinShortName": "NOBODYETH"
+  },
+  {
+    "coinType": 8057,
+    "coinName": "Niza",
+    "coinShortName": "NIZA"
+  },
+  {
+    "coinType": 8125,
+    "coinName": "Nyx",
+    "coinShortName": "NYX"
+  },
+  {
+    "coinType": 8171,
+    "coinName": "Nomina",
+    "coinShortName": "NOM"
+  },
+  {
     "coinType": 29,
     "coinName": "OmiseGO",
     "coinShortName": "OMG"
+  },
+  {
+    "coinType": 8227,
+    "coinName": "Ontomir",
+    "coinShortName": "OTM"
   },
   {
     "coinType": 37,
@@ -11555,11 +12150,6 @@
     "coinShortName": "OLM"
   },
   {
-    "coinType": 4979,
-    "coinName": "Omni Network",
-    "coinShortName": "OMNI"
-  },
-  {
     "coinType": 5026,
     "coinName": "Orbitt Token",
     "coinShortName": "ORBT"
@@ -11673,6 +12263,51 @@
     "coinType": 7697,
     "coinName": "Orgo",
     "coinShortName": "ORGO"
+  },
+  {
+    "coinType": 7848,
+    "coinName": "The Orange Era",
+    "coinShortName": "ORANGE"
+  },
+  {
+    "coinType": 7860,
+    "coinName": "Overlay Protocol",
+    "coinShortName": "OVL"
+  },
+  {
+    "coinType": 8031,
+    "coinName": "OrbitEdge",
+    "coinShortName": "ORBD"
+  },
+  {
+    "coinType": 8122,
+    "coinName": "OMNILABS",
+    "coinShortName": "OMNILABS_V1"
+  },
+  {
+    "coinType": 8140,
+    "coinName": "OMNILABS",
+    "coinShortName": "OMNILABS"
+  },
+  {
+    "coinType": 8197,
+    "coinName": "Palu",
+    "coinShortName": "PALU"
+  },
+  {
+    "coinType": 8211,
+    "coinName": "Pipe Network",
+    "coinShortName": "PIPE"
+  },
+  {
+    "coinType": 8221,
+    "coinName": "I love puppies",
+    "coinShortName": "PUPPIES"
+  },
+  {
+    "coinType": 8243,
+    "coinName": "Peog Token",
+    "coinShortName": "PEOG"
   },
   {
     "coinType": 1916,
@@ -12122,7 +12757,7 @@
   {
     "coinType": 3872,
     "coinName": "XCAD Network PLAY",
-    "coinShortName": "PLAY"
+    "coinShortName": "PLAY_Delist"
   },
   {
     "coinType": 3891,
@@ -12467,7 +13102,7 @@
   {
     "coinType": 5084,
     "coinName": "PEPEWIFHAT",
-    "coinShortName": "PEPEWH"
+    "coinShortName": "PEPEWH_DELIST"
   },
   {
     "coinType": 5090,
@@ -12855,6 +13490,56 @@
     "coinShortName": "PUMPCEX"
   },
   {
+    "coinType": 7776,
+    "coinName": "PlaysOut",
+    "coinShortName": "PLAY"
+  },
+  {
+    "coinType": 7809,
+    "coinName": "Succinct",
+    "coinShortName": "PROVE"
+  },
+  {
+    "coinType": 7865,
+    "coinName": "PublicAI",
+    "coinShortName": "PUBLIC"
+  },
+  {
+    "coinType": 7978,
+    "coinName": "Portal To Bitcoin",
+    "coinShortName": "PTB"
+  },
+  {
+    "coinType": 8035,
+    "coinName": "Polyfactual",
+    "coinShortName": "POLYFACTS"
+  },
+  {
+    "coinType": 8052,
+    "coinName": "PunkStrategy",
+    "coinShortName": "PNKSTR"
+  },
+  {
+    "coinType": 8066,
+    "coinName": "Portals",
+    "coinShortName": "PORTALS"
+  },
+  {
+    "coinType": 8132,
+    "coinName": "priceless",
+    "coinShortName": "PRICELESS"
+  },
+  {
+    "coinType": 8186,
+    "coinName": "I love puppies",
+    "coinShortName": "PUPPIES_V1"
+  },
+  {
+    "coinType": 8191,
+    "coinName": "Peog Token",
+    "coinShortName": "PEOG_V1"
+  },
+  {
     "coinType": 1996,
     "coinName": "Qtum",
     "coinShortName": "QTUM"
@@ -12985,14 +13670,14 @@
     "coinShortName": "QUBIC"
   },
   {
+    "coinType": 6575,
+    "coinName": "Quantumevm",
+    "coinShortName": "QEVM"
+  },
+  {
     "coinType": 6633,
     "coinName": "Quai Network",
     "coinShortName": "QUAI"
-  },
-  {
-    "coinType": 6849,
-    "coinName": "QVA Network",
-    "coinShortName": "QVA"
   },
   {
     "coinType": 6876,
@@ -13005,9 +13690,39 @@
     "coinShortName": "QAI"
   },
   {
+    "coinType": 7905,
+    "coinName": "QVA Network",
+    "coinShortName": "QVA"
+  },
+  {
+    "coinType": 7966,
+    "coinName": "Quack AI",
+    "coinShortName": "Q"
+  },
+  {
+    "coinType": 8213,
+    "coinName": "RCO Finance",
+    "coinShortName": "RCOF"
+  },
+  {
+    "coinType": 8250,
+    "coinName": "Recall",
+    "coinShortName": "RECALL"
+  },
+  {
     "coinType": 70,
     "coinName": "RFUEL",
     "coinShortName": "RFUEL"
+  },
+  {
+    "coinType": 8262,
+    "coinName": "Rain",
+    "coinShortName": "RAIN"
+  },
+  {
+    "coinType": 8271,
+    "coinName": "Astra Nova",
+    "coinShortName": "RVV"
   },
   {
     "coinType": 1940,
@@ -13088,11 +13803,6 @@
     "coinType": 2368,
     "coinName": "Raydium",
     "coinShortName": "RAY"
-  },
-  {
-    "coinType": 2429,
-    "coinName": "Reef Finance",
-    "coinShortName": "REEF_Delist"
   },
   {
     "coinType": 2462,
@@ -13282,7 +13992,7 @@
   {
     "coinType": 3890,
     "coinName": "Rainmaker Games",
-    "coinShortName": "RAIN"
+    "coinShortName": "RAIN_Delist"
   },
   {
     "coinType": 3898,
@@ -13423,6 +14133,11 @@
     "coinType": 4831,
     "coinName": "RunTuCoin",
     "coinShortName": "RTC"
+  },
+  {
+    "coinType": 4877,
+    "coinName": "Xend Finance",
+    "coinShortName": "RWA_DELIST"
   },
   {
     "coinType": 4882,
@@ -13620,11 +14335,6 @@
     "coinShortName": "REDEFI"
   },
   {
-    "coinType": 6857,
-    "coinName": "New Ancient DNA Cloned Wolf",
-    "coinShortName": "REMUS"
-  },
-  {
     "coinType": 7103,
     "coinName": "Rato The Rat",
     "coinShortName": "RATO"
@@ -13708,6 +14418,41 @@
     "coinType": 7770,
     "coinName": "Rhea Finance",
     "coinShortName": "RHEA"
+  },
+  {
+    "coinType": 7842,
+    "coinName": "no internet",
+    "coinShortName": "REX"
+  },
+  {
+    "coinType": 7878,
+    "coinName": "RICE AI",
+    "coinShortName": "RICE"
+  },
+  {
+    "coinType": 7990,
+    "coinName": "Reef",
+    "coinShortName": "REEF"
+  },
+  {
+    "coinType": 8069,
+    "coinName": "RUNWAGO",
+    "coinShortName": "RUNWAGO"
+  },
+  {
+    "coinType": 8109,
+    "coinName": "River",
+    "coinShortName": "RIVER"
+  },
+  {
+    "coinType": 8209,
+    "coinName": "STBL",
+    "coinShortName": "STBL"
+  },
+  {
+    "coinType": 8219,
+    "coinName": "SuperCells",
+    "coinShortName": "SCT"
   },
   {
     "coinType": 116,
@@ -14807,7 +15552,7 @@
   {
     "coinType": 4939,
     "coinName": "Skydrome",
-    "coinShortName": "SKY"
+    "coinShortName": "SKY_DELIST"
   },
   {
     "coinType": 4943,
@@ -15210,6 +15955,11 @@
     "coinShortName": "SNAI"
   },
   {
+    "coinType": 6334,
+    "coinName": "SADANT",
+    "coinShortName": "SADANT"
+  },
+  {
     "coinType": 6336,
     "coinName": "StealthSDK",
     "coinShortName": "STEALTH"
@@ -15283,11 +16033,6 @@
     "coinType": 6836,
     "coinName": "StakeStone",
     "coinShortName": "STO"
-  },
-  {
-    "coinType": 6847,
-    "coinName": "SAG Coin",
-    "coinShortName": "SAG"
   },
   {
     "coinType": 6861,
@@ -15458,6 +16203,96 @@
     "coinType": 7692,
     "coinName": "Soil",
     "coinShortName": "SOIL"
+  },
+  {
+    "coinType": 7737,
+    "coinName": "Shack Token",
+    "coinShortName": "SHACK"
+  },
+  {
+    "coinType": 7787,
+    "coinName": "SAG Coin",
+    "coinShortName": "SAG"
+  },
+  {
+    "coinType": 7812,
+    "coinName": "Superp",
+    "coinShortName": "SUP"
+  },
+  {
+    "coinType": 7815,
+    "coinName": "Illusion of Life",
+    "coinShortName": "SPARK"
+  },
+  {
+    "coinType": 7840,
+    "coinName": "SatLayer",
+    "coinShortName": "SLAY"
+  },
+  {
+    "coinType": 7844,
+    "coinName": "Sheep Wif Hat",
+    "coinShortName": "SWIF"
+  },
+  {
+    "coinType": 7856,
+    "coinName": "STUPID INU",
+    "coinShortName": "STUPID"
+  },
+  {
+    "coinType": 7858,
+    "coinName": "SYZYKY",
+    "coinShortName": "SYZYKY"
+  },
+  {
+    "coinType": 7924,
+    "coinName": "Hoshimachi Suisei",
+    "coinShortName": "SUISEI"
+  },
+  {
+    "coinType": 7968,
+    "coinName": "Somnia",
+    "coinShortName": "SOMI"
+  },
+  {
+    "coinType": 7986,
+    "coinName": "StreamerCoin",
+    "coinShortName": "STREAMER"
+  },
+  {
+    "coinType": 7996,
+    "coinName": "WORLDSHARDS",
+    "coinShortName": "SHARDS"
+  },
+  {
+    "coinType": 8002,
+    "coinName": "StakeQuest Legends",
+    "coinShortName": "SQL"
+  },
+  {
+    "coinType": 8006,
+    "coinName": "Sapien",
+    "coinShortName": "SAPIEN"
+  },
+  {
+    "coinType": 8021,
+    "coinName": "Switchboard",
+    "coinShortName": "SWTCH"
+  },
+  {
+    "coinType": 8062,
+    "coinName": "Stream SZN",
+    "coinShortName": "STRSZN"
+  },
+  {
+    "coinType": 8078,
+    "coinName": "Sky",
+    "coinShortName": "SKY"
+  },
+  {
+    "coinType": 8096,
+    "coinName": "Syndicate",
+    "coinShortName": "SYND"
   },
   {
     "coinType": 47,
@@ -15811,7 +16646,7 @@
   },
   {
     "coinType": 4070,
-    "coinName": "tomiNet",
+    "coinName": "TOMI",
     "coinShortName": "TOMI"
   },
   {
@@ -16255,11 +17090,6 @@
     "coinShortName": "TUTC"
   },
   {
-    "coinType": 6922,
-    "coinName": "TrendPup",
-    "coinShortName": "TPUP"
-  },
-  {
     "coinType": 6936,
     "coinName": "Manipulated Time",
     "coinShortName": "TIME"
@@ -16358,6 +17188,56 @@
     "coinType": 7745,
     "coinName": "Treehouse",
     "coinShortName": "TREE"
+  },
+  {
+    "coinType": 7779,
+    "coinName": "THERAPi",
+    "coinShortName": "THRAI"
+  },
+  {
+    "coinType": 7783,
+    "coinName": "The Spirit of Gambling",
+    "coinShortName": "TOKABU"
+  },
+  {
+    "coinType": 7805,
+    "coinName": "Towns",
+    "coinShortName": "TOWNS"
+  },
+  {
+    "coinType": 7884,
+    "coinName": "TOKABU",
+    "coinShortName": "TOKABUETH"
+  },
+  {
+    "coinType": 7923,
+    "coinName": "Alt.town",
+    "coinShortName": "TOWN"
+  },
+  {
+    "coinType": 7955,
+    "coinName": "TrendPup",
+    "coinShortName": "TPUP"
+  },
+  {
+    "coinType": 7982,
+    "coinName": "Overtake",
+    "coinShortName": "TAKE"
+  },
+  {
+    "coinType": 8000,
+    "coinName": "Tradoor",
+    "coinShortName": "TRADOOR"
+  },
+  {
+    "coinType": 8157,
+    "coinName": "trillions",
+    "coinShortName": "TRILLIONS"
+  },
+  {
+    "coinType": 8167,
+    "coinName": "Swarm Network",
+    "coinShortName": "TRUTH"
   },
   {
     "coinType": 1972,
@@ -16683,6 +17563,21 @@
     "coinType": 7636,
     "coinName": "USEFUL COIN",
     "coinShortName": "USEFUL"
+  },
+  {
+    "coinType": 7992,
+    "coinName": "Unstable Tether",
+    "coinShortName": "USDUT"
+  },
+  {
+    "coinType": 8044,
+    "coinName": "Unibase",
+    "coinShortName": "UB"
+  },
+  {
+    "coinType": 8142,
+    "coinName": "UCHAIN",
+    "coinShortName": "UCN"
   },
   {
     "coinType": 56,
@@ -17095,11 +17990,6 @@
     "coinShortName": "VATAN"
   },
   {
-    "coinType": 6853,
-    "coinName": "VLT Network",
-    "coinShortName": "VLT_V1"
-  },
-  {
     "coinType": 6859,
     "coinName": "VR1",
     "coinShortName": "VR1"
@@ -17153,6 +18043,26 @@
     "coinType": 7761,
     "coinName": "VLT Network",
     "coinShortName": "VLT"
+  },
+  {
+    "coinType": 7772,
+    "coinName": "VIVA",
+    "coinShortName": "VIVA"
+  },
+  {
+    "coinType": 7785,
+    "coinName": "Vulpe Finance",
+    "coinShortName": "VULPEFI"
+  },
+  {
+    "coinType": 8118,
+    "coinName": "Venture Capital DAO",
+    "coinShortName": "VCDAO"
+  },
+  {
+    "coinType": 8162,
+    "coinName": "zkVerify",
+    "coinShortName": "VFY"
   },
   {
     "coinType": 62,
@@ -17512,7 +18422,7 @@
   {
     "coinType": 5205,
     "coinName": "LandWolf",
-    "coinShortName": "WOLF"
+    "coinShortName": "WOLF_Delist2"
   },
   {
     "coinType": 5232,
@@ -17620,6 +18530,11 @@
     "coinShortName": "WUSD"
   },
   {
+    "coinType": 6327,
+    "coinName": "W chain",
+    "coinShortName": "WCN"
+  },
+  {
     "coinType": 6387,
     "coinName": "Wire8.io",
     "coinShortName": "W8"
@@ -17665,9 +18580,34 @@
     "coinShortName": "WORTHLESS"
   },
   {
+    "coinType": 7846,
+    "coinName": "WORLD3",
+    "coinShortName": "WAI"
+  },
+  {
+    "coinType": 7927,
+    "coinName": "WOLF",
+    "coinShortName": "WOLF"
+  },
+  {
+    "coinType": 7954,
+    "coinName": "World Liberty Financial",
+    "coinShortName": "WLFI"
+  },
+  {
+    "coinType": 8199,
+    "coinName": "Xpad Launchpad",
+    "coinShortName": "XPAD"
+  },
+  {
     "coinType": 19,
     "coinName": "Stellar",
     "coinShortName": "XLM"
+  },
+  {
+    "coinType": 8217,
+    "coinName": "修仙",
+    "coinShortName": "XIUXIAN"
   },
   {
     "coinType": 36,
@@ -17827,7 +18767,7 @@
   {
     "coinType": 3411,
     "coinName": "Venidium",
-    "coinShortName": "XVM"
+    "coinShortName": "XVM_DELIST"
   },
   {
     "coinType": 3426,
@@ -18010,6 +18950,46 @@
     "coinShortName": "XNY"
   },
   {
+    "coinType": 7867,
+    "coinName": "XSPA",
+    "coinShortName": "XSPA"
+  },
+  {
+    "coinType": 7913,
+    "coinName": "XPIN Network",
+    "coinShortName": "XPIN"
+  },
+  {
+    "coinType": 7945,
+    "coinName": "Exa Protocol",
+    "coinShortName": "XAP"
+  },
+  {
+    "coinType": 7947,
+    "coinName": "Dexlab",
+    "coinShortName": "XLAB"
+  },
+  {
+    "coinType": 8004,
+    "coinName": "Volt",
+    "coinShortName": "XVM"
+  },
+  {
+    "coinType": 8113,
+    "coinName": "Anoma",
+    "coinShortName": "XAN"
+  },
+  {
+    "coinType": 8124,
+    "coinName": "Plasma",
+    "coinShortName": "XPL"
+  },
+  {
+    "coinType": 8248,
+    "coinName": "Yield Basis",
+    "coinShortName": "YB"
+  },
+  {
     "coinType": 2093,
     "coinName": "YAP TOKEN",
     "coinShortName": "YAP"
@@ -18155,6 +19135,11 @@
     "coinShortName": "YURU"
   },
   {
+    "coinType": 7897,
+    "coinName": "YZY",
+    "coinShortName": "YZY"
+  },
+  {
     "coinType": 32,
     "coinName": "0x",
     "coinShortName": "ZRX"
@@ -18163,6 +19148,11 @@
     "coinType": 33,
     "coinName": "Zilliqa",
     "coinShortName": "ZIL"
+  },
+  {
+    "coinType": 8267,
+    "coinName": "ZEROBASE",
+    "coinShortName": "ZBT"
   },
   {
     "coinType": 1999,
@@ -18450,6 +19440,16 @@
     "coinShortName": "ZEME"
   },
   {
+    "coinType": 8056,
+    "coinName": "Boundless",
+    "coinShortName": "ZKC"
+  },
+  {
+    "coinType": 8092,
+    "coinName": "Zano",
+    "coinShortName": "ZANO"
+  },
+  {
     "coinType": 6207,
     "coinName": "π(bitcoin)",
     "coinShortName": "π"
@@ -18458,6 +19458,11 @@
     "coinType": 4534,
     "coinName": "DEVAI",
     "coinShortName": "0XDEV"
+  },
+  {
+    "coinType": 8106,
+    "coinName": "0G",
+    "coinShortName": "0G"
   },
   {
     "coinType": 2029,
@@ -18500,14 +19505,49 @@
     "coinShortName": "1R0R"
   },
   {
+    "coinType": 8090,
+    "coinName": "1 coin can change your life",
+    "coinShortName": "1"
+  },
+  {
     "coinType": 4612,
     "coinName": "2024",
     "coinShortName": "2024"
   },
   {
+    "coinType": 8173,
+    "coinName": "DoubleZero",
+    "coinShortName": "2Z"
+  },
+  {
     "coinType": 4134,
     "coinName": "PLAYA3ULL",
     "coinShortName": "3ULL"
+  },
+  {
+    "coinType": 8182,
+    "coinName": "4",
+    "coinShortName": "4"
+  },
+  {
+    "coinType": 8025,
+    "coinName": "67COIN",
+    "coinShortName": "67"
+  },
+  {
+    "coinType": 8233,
+    "coinName": "Albetros",
+    "coinShortName": "$ARS"
+  },
+  {
+    "coinType": 8257,
+    "coinName": "Dog Milo coin",
+    "coinShortName": "$DOG"
+  },
+  {
+    "coinType": 8273,
+    "coinName": "Sliver",
+    "coinShortName": "$SILVER"
   },
   {
     "coinType": 112,
@@ -18665,11 +19705,6 @@
     "coinShortName": "$BUY"
   },
   {
-    "coinType": 3753,
-    "coinName": "BinaryX",
-    "coinShortName": "$$FORM"
-  },
-  {
     "coinType": 3760,
     "coinName": "Dosa",
     "coinShortName": "$DOSA"
@@ -18733,6 +19768,11 @@
     "coinType": 4069,
     "coinName": "BART SIMPSON COIN",
     "coinShortName": "$BART"
+  },
+  {
+    "coinType": 4076,
+    "coinName": "FoxGPT",
+    "coinShortName": "$FGPT"
   },
   {
     "coinType": 4169,
@@ -18892,7 +19932,7 @@
   {
     "coinType": 4618,
     "coinName": "Aquarius",
-    "coinShortName": "$ARS"
+    "coinShortName": "$ARS_Delist"
   },
   {
     "coinType": 4666,
@@ -19155,14 +20195,14 @@
     "coinShortName": "$DOGE"
   },
   {
-    "coinType": 5464,
-    "coinName": "Panda Swap",
-    "coinShortName": "$PANDA"
-  },
-  {
     "coinType": 5465,
     "coinName": "BILLION CLUB",
     "coinShortName": "$BLC"
+  },
+  {
+    "coinType": 5487,
+    "coinName": "Dora Factory",
+    "coinShortName": "$DORA"
   },
   {
     "coinType": 5495,
@@ -19217,7 +20257,7 @@
   {
     "coinType": 5667,
     "coinName": "WEN Coin",
-    "coinShortName": "$WEN"
+    "coinShortName": "$WEN_Delist"
   },
   {
     "coinType": 5679,
@@ -19432,7 +20472,7 @@
   {
     "coinType": 6845,
     "coinName": "Dog Milo coin",
-    "coinShortName": "$DOG"
+    "coinShortName": "$DOG_V1"
   },
   {
     "coinType": 6855,
@@ -19548,6 +20588,71 @@
     "coinType": 7533,
     "coinName": "LIFI NETWORK",
     "coinShortName": "$LIFI"
+  },
+  {
+    "coinType": 7796,
+    "coinName": "Panda Swap",
+    "coinShortName": "$PANDA"
+  },
+  {
+    "coinType": 7817,
+    "coinName": "ISKRA",
+    "coinShortName": "$ISK"
+  },
+  {
+    "coinType": 7827,
+    "coinName": "INFINIT",
+    "coinShortName": "$IN"
+  },
+  {
+    "coinType": 7869,
+    "coinName": "STAX Token",
+    "coinShortName": "$STAX"
+  },
+  {
+    "coinType": 7988,
+    "coinName": "Union",
+    "coinShortName": "$U"
+  },
+  {
+    "coinType": 8008,
+    "coinName": "OpenLedger",
+    "coinShortName": "$OPEN"
+  },
+  {
+    "coinType": 8039,
+    "coinName": "Holoworld AI",
+    "coinShortName": "$HOLO"
+  },
+  {
+    "coinType": 8072,
+    "coinName": "live on treadmill till 100mill",
+    "coinShortName": "$RUNNER"
+  },
+  {
+    "coinType": 8102,
+    "coinName": "Black Mesa Research Facility",
+    "coinShortName": "$$MESA"
+  },
+  {
+    "coinType": 8114,
+    "coinName": "Realyn",
+    "coinShortName": "$REAL"
+  },
+  {
+    "coinType": 8116,
+    "coinName": "$RING COIN",
+    "coinShortName": "$RING"
+  },
+  {
+    "coinType": 8129,
+    "coinName": "LiveArt ",
+    "coinShortName": "$ART"
+  },
+  {
+    "coinType": 8154,
+    "coinName": "Weber Energy Network",
+    "coinShortName": "$WEN"
   },
   {
     "coinType": 7690,
